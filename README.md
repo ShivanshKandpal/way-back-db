@@ -2,6 +2,8 @@
 
 A simple key-value database system with a Persistent Treap implementation and a server-client architecture.
 
+*This project was created by my team for a Nutanix Hackathon*
+
 ## Features
 
 - Persistent Treap for efficient key-value storage with O(log n) operations
